@@ -1,0 +1,15 @@
+extensions 
+1. react extension pack : in this we can get Reactjs code snippets,ES Lint,JavaScript (ES6) Snippets,Search node_modules,NPM IntelliSense , Path IntelliSense
+
+2.auto import : this help to import automatically any file
+
+
+chenge in emmet json file 
+file > preference > setting > search emmet> edit in json
+ and add 
+
+,"emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+       
+    },"editor.fontSize": 24,
+    "terminal.integrated.fontSize": 24
