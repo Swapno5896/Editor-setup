@@ -8,6 +8,9 @@ chenge in emmet json file
 file > preference > setting > search emmet> edit in json
  and add 
 
+ 4. Auto Rename Tag : If I change the starting tag then closing tag will automaticly change
+
+
 ,"emmet.includeLanguages": {
         "javascript": "javascriptreact",
        
