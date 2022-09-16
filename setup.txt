@@ -3,7 +3,7 @@ extensions
 
 2.auto import : this help to import automatically any file
 
-
+3. Tailwind CSS IntelliSense : Help to write code
 chenge in emmet json file 
 file > preference > setting > search emmet> edit in json
  and add 
