@@ -10,6 +10,7 @@ file > preference > setting > search emmet> edit in json
 
  4. Auto Rename Tag : If I change the starting tag then closing tag will automaticly change
 
+5. IntelliSense for CSS class names in HTML : helpes to give bootstrap tag
 
 ,"emmet.includeLanguages": {
         "javascript": "javascriptreact",
